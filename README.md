@@ -176,16 +176,6 @@ Proyek ini dapat dikembangkan menjadi:
 
 ---
 
-## 📸 Preview
-
-Tambahkan screenshot atau GIF simulasi di sini.
-
-```markdown
-![Boat Simulation](images/demo.gif)
-```
-
----
-
 ## 📚 Referensi
 
 * ROS2 Documentation
